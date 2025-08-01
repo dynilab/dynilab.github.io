@@ -37,42 +37,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "教授课程介绍",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-members",
+          title: "members",
+          description: "团队成员",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-wavenets-非线性周期性波流场重构的物理信息神经网络方法",
+        },{id: "post-wavenets-非线性周期性波流场重构的物理信息神经网络方法",
         
           title: "WaveNets：非线性周期性波流场重构的物理信息神经网络方法",
         
@@ -103,6 +82,17 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
+          
+        },
+      },{id: "post-open-source-code-for-mooring-analysis",
+        
+          title: "Open-source code for mooring analysis",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/mooring/";
           
         },
       },{id: "books-the-godfather",
