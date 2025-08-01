@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-## 🎉 Welcome new members to dyniLab!
+## Welcome new members to dyniLab!
 
 We are excited to welcome **five new graduate students** who will join **dyniLab** in **Autumn 2025**:
 
