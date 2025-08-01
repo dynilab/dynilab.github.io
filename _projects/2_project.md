@@ -1,81 +1,28 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Nonlinear mooring cable dynamics
+description: Postdoctoral Fellowship
+img: /assets/img/irc_logo.jpeg
+importance: 3
+category: research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+### 项目简介
+Floating wind and wave are two promising sources for renewable energy. For harnessing these energies, the safety, reliability and survivability of moored floating structures are critical for supporting the energy conversion systems. This requires advanced modelling techniques and thorough understanding of the moored structures in varied ocean conditions. These issues are among the pressing challenges impeding the commercialisation of renewable energy concepts. This project aims at developing a comprehensive and stable numerical method for nonlinear mooring cable dynamics, understanding the cable nonlinear behaviors, and eventually coupling the cable model into state-of-the-art platform models for appreciating the influence of the cable dynamics on platform responses. The proposed study aligns the United Nation’s Agenda 2030 for sustainable development, in particular contributing towards the target for ensuring universal access to affordable, reliable and modern energy services. The outcome of the project will be important for sustainably using the ocean resources. For achieving the research goal, the research will start with the state-of-the-art formulation of mooring cable dynamics and develop numerical techniques to improve the numerical stability of the present solving method; the research will afterwards take advantage of advanced nonlinear analysis techniques including harmonic balance method and numerical continuation for characterizing the mooring nonlinear behaviors and identifying critical conditions for further coupling studies; subsequently, the developed cable model will be coupled with reduced-order and high-fidelity platform models for appreciating the influence of cable nonlinearity on structural vibration control design and extreme platform responses respectively.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### 研究成果
+#### 期刊论文
+1. __Chen, L.__ & Basu, B.* (2019). [Wave-current interaction effects on structural responses of floating offshore wind turbines](https://onlinelibrary.wiley.com/doi/full/10.1002/we.2288). _Wind Energy, 22_(2), 327-339.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+1. __Chen, L.__, Basu, B.* & Nielsen, S.R.K. (2019). [Nonlinear periodic response analysis of mooring cables using harmonic balance method](https://www.sciencedirect.com/science/article/pii/S0022460X18306126). _Journal of Sound and Vibration, 438_, 402-418.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+1. __Chen, L.__ & Basu, B.* (2018). [Fatigue load estimation of a spar-type floating offshore wind turbine considering wave-current interactions](https://doi.org/10.1016/j.ijfatigue.2018.06.002). _International Journal of Fatigue, 116_, 421-428.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+1. __Chen, L.__, Basu, B.* & Nielsen, S.R.K. (2018). [A coupled finite difference mooring dynamics model for floating offshore wind turbine analysis](https://www.sciencedirect.com/science/article/pii/S0029801818307005). _Ocean Engineering,162_, 304-315.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
+#### 会议报告/论文
+1. __Chen, L.__ & Basu, B. (2018). [Development of an open-source simulation tool for mooring systems](https://www.researchgate.net/publication/327424791_Development_of_an_open-source_simulation_tool_for_mooring_systems). In _Proceedings of the 2018 Civil Engineering Research in Ireland conference_ (CERI2018), Dublin, Ireland, pp. 823-828.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+1. __Chen, L.__, Basu, B. & Nielsen, S.R.K. (2018). [Harmonic balance analysis of mooring cables](https://www.researchgate.net/publication/326647353_Harmonic_balance_analysis_of_mooring_cables). In _Proceedings of the 7th World Conference on Structural Control and Monitoring_ (7WCSCM), Qingdao, China, pp. 3354.
