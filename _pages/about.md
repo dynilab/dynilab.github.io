@@ -9,9 +9,9 @@ profile:
   image: lab-logo.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>College of Civil Engineering, Tongji University</p>
-    <p>1239 Siping Road</p>
-    <p>Shanghai 200092</p>
+    <p>同济大学桥梁馆717室</p>
+    <p>四平路1239号</p>
+    <p>上海 200092</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
