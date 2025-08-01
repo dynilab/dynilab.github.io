@@ -1,9 +1,20 @@
 ---
 layout: post
+title: Welcome new members to dyniLab!
 date: 2025-8-1 15:59:00-0400
 inline: false
 related_posts: false
 ---
 
-Five new graduate students will join our lab in Autumn 2025!
-We warmly welcome Wei Gou and Sikang Wu as new Ph.D. students, and Siyuan Wang, Qinghui Qi, and Mengyu Wang as incoming master's students. We look forward to their contributions and growth in our research group. Welcome aboard!
+## 🎉 Welcome new members to dyniLab!
+
+We are excited to welcome **five new graduate students** who will join **dyniLab** in **Autumn 2025**:
+
+- **Wei Gou** *(Ph.D. student)*  
+- **Sikang Wu** *(Ph.D. student)*  
+- **Siyuan Wang** *(Master’s student)*  
+- **Qinghui Qi** *(Master’s student)*  
+- **Mengyu Wang** *(Master’s student)*  
+
+We look forward to the energy, ideas, and contributions they will bring to our research in dynamics, numerics, and intelligent systems. Welcome to the team!
+
