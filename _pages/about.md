@@ -6,7 +6,7 @@ subtitle: Dynanmics ｜ Numerics ｜ Intelligence
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: lab-logo.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>College of Civil Engineering, Tongji University</p>
@@ -19,12 +19,12 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 2 # leave blank to include all the blog posts
 ---
 
 At dynilab, our research advances the understanding of dynamic behavior in civil structures, water wave dynamics, ocean infrastructure, and building thermodynamics. Bridging disciplines across structural engineering, fluid mechanics, and energy systems, we develop and apply state-of-the-art numerical methods and artificial intelligence techniques to address complex engineering challenges.
