@@ -1,0 +1,7 @@
+Dr. Lin Chen is currently an Associate Professor in the Department of Bridge Engineering at Tongji University, China. His research focuses on dynamic analysis, vibration control, and vibration-based assessment of long and slender structures such as cables, bridges, and wind turbines. He is also interested in numerical methods for solving partial differential equations, especially those related to nonlinear wave-current interactions.
+
+Dr. Chen received both his bachelor's and Ph.D. degrees in Engineering from Tongji University. During his doctoral studies, he visited Prof. Satish Nagarajaiah at Rice University (USA) from September 2012 to September 2014. He then worked as a Postdoctoral Researcher with Prof. Biswajit Basu at Trinity College Dublin (Ireland) before starting the faculty position at Tongji University.
+
+His research has been supported by the National Natural Science Foundation of China through three funded projects. His work has been applied to the vibration control design of several long-span bridges, including the Sutong Bridge and the Chibi Bridge.
+
+Further information in Chinese is available on the websites of the [College of Civil Engineering](https://faculty-civileng.tongji.edu.cn/chenlin/zh_CN/index.htm), [Department of Bridge Engineering](https://bridge.tongji.edu.cn/50/48/c14929a282696/page.htm), and the [Research Division of Structural Health Monitoring and Vibration Control](https://shmc.tongji.edu.cn/4f/e6/c2302a282598/page.htm).
