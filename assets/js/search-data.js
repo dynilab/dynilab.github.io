@@ -110,10 +110,12 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-five-new-graduate-students-will-join-our-lab-in-autumn-2025-we-warmly-welcome-wei-gou-and-sikang-wu-as-new-ph-d-students-and-siyuan-wang-qinghui-qi-and-mengyu-wang-as-incoming-master-s-students-we-look-forward-to-their-contributions-and-growth-in-our-research-group-welcome-aboard",
-          title: 'Five new graduate students will join our lab in Autumn 2025! We warmly...',
+            },},{id: "news-announcement-1",
+          title: 'Announcement_1',
           description: "",
-          section: "News",},{id: "projects-悬浮隧道与系泊缆索耦合动力效应",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "projects-悬浮隧道与系泊缆索耦合动力效应",
           title: '悬浮隧道与系泊缆索耦合动力效应',
           description: "国家自然科学基金面上项目",
           section: "Projects",handler: () => {
@@ -144,32 +146,39 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{
-        id: 'social-email',
-        title: 'email',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("https://github.com/dynilab", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://orcid.org/0000-0002-3570-234X", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-publons',
+        title: 'Publons',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://publons.com/a/M-9400-2016/", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Lin-Chen-33/", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=X5-zCpEAAAAJ&hl=zh-CN", "_blank");
         },
       },{
         id: 'social-custom_social',
