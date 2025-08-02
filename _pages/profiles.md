@@ -17,6 +17,14 @@ profiles:
       <p>Room 717, Dept. Bridge Eng., Tongji Univ.</p>
       <p>1239 Siping Road</p>
       <p>Shanghai 200092</p>
+
+### Lab Alumni
+Below is a list of some of our alumni and their current positions:
+
+- **Ben Li**  
+  *硕士, 2025 – Thesis on numerical and intelligent methods for water waves on rotational flow*  
+  **Current**: PhD Student, Texas A&M University, USA]
+
   # - align: left
   #   image: prof_pic.jpg
   #   content: about_einstein.md
