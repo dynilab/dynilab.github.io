@@ -1,4 +1,4 @@
-Ben Li joined dynilab in 2022 and graduated in June 2025.
+已毕业硕士：**李奔**，德州农工大学（Texas A&M University, TAMU）在读博士研究生
 
 #### 主要研究方向  
 波流相互作用  
@@ -8,5 +8,6 @@ Ben Li joined dynilab in 2022 and graduated in June 2025.
 2022年6月：毕业于华南理工大学，主修土木工程，辅修金融学，分别获得工学学士与经济学学士（辅修）学位  
 2025年6月：毕业于同济大学土木水利专业，获工学硕士学位
 
-#### 毕业去向  
-德州农工大学（Texas A&M University, TAMU）攻读博士学位  
+#### 指导老师
+陈林（同济大学） 
+ 

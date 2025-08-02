@@ -17,7 +17,25 @@ profiles:
       <p>Room 717, Dept. Bridge Eng., Tongji Univ.</p>
       <p>1239 Siping Road</p>
       <p>Shanghai 200092</p>
-
+      
+  - align: left
+    image: wei-gou.jpg
+    content: about_wei.md 
+    image_circular: true # crops the image to make it circular
+    more_info: 
+    
+  - align: left
+    image: fulin-wang.jpg
+    content: about_fulin.md 
+    image_circular: true # crops the image to make it circular
+    more_info: 
+    
+  - align: left
+    image: jiaxu-tan.jpg
+    content: about_tan.md 
+    image_circular: true # crops the image to make it circular
+    more_info: 
+     
   - align: left
     image: ben-li.jpg
     content: about_ben.md 
