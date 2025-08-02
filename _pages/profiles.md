@@ -18,19 +18,10 @@ profiles:
       <p>1239 Siping Road</p>
       <p>Shanghai 200092</p>
 
-### Lab Alumni
-Below is a list of some of our alumni and their current positions:
-
-- **Ben Li**  
-  *硕士, 2025 – Thesis on numerical and intelligent methods for water waves on rotational flow*  
-  **Current**: PhD Student, Texas A&M University, USA]
-
-  # - align: left
-  #   image: prof_pic.jpg
-  #   content: about_einstein.md
-  #   image_circular: false # crops the image to make it circular
-  #   more_info: >
-  #     <p>555 your office number</p>
-  #     <p>123 your address street</p>
-  #     <p>Your City, State 12345</p>
+# alumni:
+  - align: left
+    image: ben-li.jpg
+    content: Ben Li joined dynilab in 2022. 
+    image_circular: true # crops the image to make it circular
+    more_info: 
 ---
