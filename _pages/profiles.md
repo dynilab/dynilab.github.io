@@ -18,10 +18,9 @@ profiles:
       <p>1239 Siping Road</p>
       <p>Shanghai 200092</p>
 
-# alumni:
   - align: left
     image: ben-li.jpg
-    content: Ben Li joined dynilab in 2022. 
+    content: about_ben.md 
     image_circular: true # crops the image to make it circular
     more_info: 
 ---
