@@ -1,4 +1,4 @@
-已毕业硕士：**李奔**，德州农工大学（Texas A&M University, TAMU）在读博士研究生
+**李奔**，已毕业硕士，赴德州农工大学（Texas A&M University, TAMU）攻读博士学位
 
 #### 主要研究方向  
 波流相互作用  
