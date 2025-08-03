@@ -25,17 +25,59 @@ profiles:
     more_info: 
     
   - align: left
+    image: siyuan-wang.jpg
+    content: about_siyuan.md 
+    image_circular: true # crops the image to make it circular
+    more_info: 
+    
+  - align: left
+    image: qinghui-qi.jpg
+    content: about_qinghui.md 
+    image_circular: true # crops the image to make it circular
+    more_info: 
+    
+  - align: left
+    image: mengyu-wang.jpg
+    content: about_mengyu.md 
+    image_circular: true # crops the image to make it circular
+    more_info: 
+    
+  - align: left
+    image: zhizhun-lin.jpg
+    content: about_zhizhun.md 
+    image_circular: true # crops the image to make it circular
+    more_info: 
+    
+  - align: left
     image: fulin-wang.jpg
     content: about_fulin.md 
     image_circular: true # crops the image to make it circular
     more_info: 
     
   - align: left
+    image: daixin-yang.jpg
+    content: about_daixin.md 
+    image_circular: true # crops the image to make it circular
+    more_info: 
+        
+  - align: left
     image: jiaxu-tan.jpg
     content: about_tan.md 
     image_circular: true # crops the image to make it circular
     more_info: 
-     
+
+  - align: left
+    image: hasan.jpg
+    content: about_hasan.md 
+    image_circular: true # crops the image to make it circular
+    more_info: 
+   
+  - align: left
+    image: nabil.jpg
+    content: about_nabil.md 
+    image_circular: true # crops the image to make it circular
+    more_info:   
+    
   - align: left
     image: ben-li.jpg
     content: about_ben.md 
