@@ -23,11 +23,19 @@ profiles:
     content: about_wei.md 
     image_circular: true # crops the image to make it circular
     more_info: 
+
+  - align: left
+    image: shikang-wu.jpg
+    content: about_shikang.md 
+    image_circular: true # crops the image to make it circular
+    more_info:     
+
   - align: left
     image: zhanhang-liu.jpg
     content: about_zhanhang.md 
     image_circular: true # crops the image to make it circular
     more_info:  
+    
   - align: left
     image: siyuan-wang.jpg
     content: about_siyuan.md 
@@ -87,4 +95,10 @@ profiles:
     content: about_ben.md 
     image_circular: true # crops the image to make it circular
     more_info: 
+
+  - align: left
+    image: fangdian-di.jpg
+    content: about_fangdian.md 
+    image_circular: true # crops the image to make it circular
+    more_info:   
 ---
