@@ -91,6 +91,12 @@ profiles:
     more_info:   
     
   - align: left
+    image: arman-ali.jpg
+    content: about_arman.md 
+    image_circular: true # crops the image to make it circular
+    more_info:   
+    
+  - align: left
     image: ben-li.jpg
     content: about_ben.md 
     image_circular: true # crops the image to make it circular
@@ -100,5 +106,11 @@ profiles:
     image: fangdian-di.jpg
     content: about_fangdian.md 
     image_circular: true # crops the image to make it circular
-    more_info:   
+    more_info: 
+    
+  - align: left
+    image: haoyu-liu.jpg
+    content: about_haoyu.md 
+    image_circular: true # crops the image to make it circular
+    more_info:      
 ---
