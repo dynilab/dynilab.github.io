@@ -35,13 +35,7 @@ profiles:
     content: about_zhanhang.md 
     image_circular: true # crops the image to make it circular
     more_info:  
-    
-  - align: left
-    image: siyuan-wang.jpg
-    content: about_siyuan.md 
-    image_circular: true # crops the image to make it circular
-    more_info: 
-    
+        
   - align: left
     image: qinghui-qi.jpg
     content: about_qinghui.md 
